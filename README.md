@@ -7,7 +7,9 @@ In diesem Script können alle Installation gescriptet werden die dazu notwendig 
 Befehle:
 
 vagrant up : Started die Umgebung und Installiert alles notwendige
+
 vagrant destroy: Löscht die Virtuelle Maschine wieder
+
 vagrant suspend: Versetzt die Virtuelle Maschine in einen Ruhezustand und kann mit vagrant up wieder aus dem Ruhe Zustand geholt werden.
 
 Verzeichnisse:
