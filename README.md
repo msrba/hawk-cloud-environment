@@ -1,6 +1,6 @@
 = Enwicklungsumgebung mit Vagrant =
 
-Diese Umgebung startet eine Virtuelle Maschine mit Ubuntu 14.04 Server und führt das Script "assets/setup/setup_environment.sh" aus.
+Diese Umgebung startet eine Virtuelle Maschine mit Ubuntu 14.04 Desktop und führt das Script "assets/setup/setup_environment.sh" aus.
 
 In diesem Script können alle Installation gescriptet werden die dazu notwendig sind um die Umgebung einzurichten. Auch die Eclipse notwendigen Einstellungen können über Shell gemacht werden -> GOOGLE
 
